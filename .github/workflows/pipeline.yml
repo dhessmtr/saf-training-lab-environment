@@ -28,4 +28,4 @@ jobs:
 
       # checkout the profile, because that's where our profile is!
       - name: PREP - Check out this repository  
-        uses: actions/checkout@v3g
+        uses: actions/checkout@v3
